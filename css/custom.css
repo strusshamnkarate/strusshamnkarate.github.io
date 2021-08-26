@@ -41,6 +41,10 @@ body {
         width: 100px;
     }
 
+.banner img {
+  width: 100%;
+
+}
 
 
 /* Customize container */
