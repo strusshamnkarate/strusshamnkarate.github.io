@@ -1,4 +1,4 @@
 strusshamnkarate.github.io
 ==========================
 
-Strusshamn karateklubb
+Heimesider for Strusshamn karateklubb.
